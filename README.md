@@ -5,8 +5,12 @@ Classification problems are one of the most important type of machine learning p
 In this repository, examples of the following metrics are presented:
 
 Confusion Matrix.
+
 Classification Report.
+
 Classification Accuracy.
+
 Log Loss.
+
 Area Under ROC Curve.
 
